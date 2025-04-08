@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blueb
+color gray
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id btn_buscar
+id edt_remedio
+id main
+id txt_alert
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.SaudeJa12302210
+style Theme.SaudeJa12302210
+xml backup_rules
+xml data_extraction_rules
